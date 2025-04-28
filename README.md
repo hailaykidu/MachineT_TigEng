@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Machine Translation Model: English ↔ Tigrinya
 
 This model is a fine-tuned machine translation model trained to translate between English and Tigrinya. It was trained on the parallel corpus of English and Tigrinya sentences.
@@ -69,3 +70,6 @@ Package: NLLB.am-en in Moses format
 Website: NLLB Corpus
 
 If you use this model or the NLLB corpus in your work, please cite it as follows:
+=======
+# MachineT_TigEng
+>>>>>>> ef11cd9c1ffe8cccf046d327d76af646e6a4c444
